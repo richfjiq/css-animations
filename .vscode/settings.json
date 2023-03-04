@@ -1,0 +1,5 @@
+{
+  "vsintellicode.modelDownloadPath": "",
+  "html-css-class-completion.CSSLanguages": ["css", "sass", "scss"],
+  "html-css-class-completion.enableEmmetSupport": true
+}
